@@ -4,7 +4,7 @@
 pip install rec4torch
 ```
 ## 2. 项目依赖
-```a. python 3.8
-```b. pytorch 1.13
+
+``` python 3.8 + pytorch 1.13
 
 
